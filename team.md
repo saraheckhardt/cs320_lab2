@@ -1,4 +1,4 @@
-Team Members:
+Team Members: 
 
 *Sarah
-*TODO: others
+*Sherman
